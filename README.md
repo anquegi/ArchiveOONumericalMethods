@@ -22,3 +22,5 @@ The `OONumericalMethodsAsGiven` folder contains the original files.
 The `NumericalMethods` folder contains a version fixed to rebuild the book using a modern LaTeX toolchain.
 
 Based on it we prepared a new version without the Java code but it is hosted in another repository.
+
+## Project own Readme. from now on, all changes achieved in this repo, will be explained in the file WORKING_README.org
