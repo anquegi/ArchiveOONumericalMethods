@@ -1,4 +1,4 @@
-# READNE
+# README
 
 This will be a new version of the book written by Didier Besset.
 But I will try to adapt this to Ruby and Raku as there exists an Pharo implementation 
